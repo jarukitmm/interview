@@ -1,0 +1,29 @@
+.header{
+}
+
+.header .MuiCardHeader-root{
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.header .MuiCardHeader-content{
+    color: blueviolet;
+    flex: initial;
+}
+
+.footer .MuiCardHeader-content{
+    flex: initial;
+}
+
+.MuiCard-root{
+    margin: 8px;
+}
+
+.MuiCard-root:hover{
+    margin: 8px;
+    box-shadow: 10px 10px 5px grey;
+}
+
+.cardarea {
+    height: 300px;
+}

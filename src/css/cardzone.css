@@ -1,0 +1,4 @@
+.cardzone{
+    display: flex;
+    flex-wrap: wrap;
+}

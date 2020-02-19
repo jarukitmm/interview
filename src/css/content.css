@@ -1,0 +1,36 @@
+.content{
+    display: flex;
+    flex-direction: column;
+}
+
+.content .top {
+    background-color: white;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+.content .top .left {
+    width: 100px;
+    background-color: rgb(51, 255, 238);
+    height: 100rem;
+}
+
+.content .bottom {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(230, 230, 230);
+}
+
+.content .bottom .left {
+    width: 100px;
+    background-color: rgb(51, 255, 238);
+    height: 100rem;
+}
+
+.content .bottom .right {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
