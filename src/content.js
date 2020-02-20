@@ -44,7 +44,6 @@ class Content extends Component {
             
         }
         this.adddata = this.adddata.bind(this);
-        this.edit = this.adddata.bind(this);
     }
 
     adddata = (e) => {
