@@ -10,3 +10,5 @@ structure
        |
        v
      edit
+     
+โดย data ที่ใช้แสดงทั้งหมดจะถูกเก็บไว้ใน content ครับ
