@@ -3,12 +3,6 @@
 แต่มี function ที่ใช้ในการทำงาน(add remove edit)ครบครับ ยังไงช่วงที่มีเวลาจะมาแก้ให้สมบูรณ์ครับ
 
 structure 
-    content
-       |
-       v
-     card
-       |
-       v
-     edit
+    content --> card --> edit
      
 โดย data ที่ใช้แสดงทั้งหมดจะถูกเก็บไว้ใน content ครับ
